@@ -1,14 +1,1 @@
-./configure  --prefix=/usr \
- --with-denoise-level=4 \
- --enable-optimize \
- --disable-debug \
- --enable-alc \
- --enable-alcc \
- --enable-cas \
- --enable-wxcas \
- --enable-amulecmd\
- --enable-amule-daemon \
- --enable-amule-gui  \
- --enable-geoip \
- --enable-webserver \
- --enable-xas
+./configure --prefix=/usr --with-boost --with-denoise-level=4 --enable-optimize --disable-debug --enable-alc --enable-alcc --enable-cas --enable-wxcas --enable-amulecmd --enable-amule-daemon --enable-amule-gui --enable-geoip --enable-webserver --enable-xas
