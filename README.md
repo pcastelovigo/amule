@@ -11,4 +11,4 @@
  --enable-amule-gui  \
  --enable-geoip \
  --enable-webserver \
- --enable-xas \
+ --enable-xas
